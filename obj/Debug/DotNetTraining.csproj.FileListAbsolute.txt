@@ -1,0 +1,2 @@
+D:\Programming\hajni\DotNetTraining\DotNetTraining\bin\Debug\DotNetTraining.exe.config
+D:\Programming\hajni\DotNetTraining\bin\Debug\DotNetTraining.exe.config
