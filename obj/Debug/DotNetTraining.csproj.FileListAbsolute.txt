@@ -5,3 +5,12 @@ D:\Programming\hajni\DotNetTraining\bin\Debug\DotNetTraining.pdb
 D:\Programming\hajni\DotNetTraining\obj\Debug\DotNetTraining.csprojResolveAssemblyReference.cache
 D:\Programming\hajni\DotNetTraining\obj\Debug\DotNetTraining.exe
 D:\Programming\hajni\DotNetTraining\obj\Debug\DotNetTraining.pdb
+D:\projects\DotNetTraining\bin\Debug\DotNetTraining.exe.config
+D:\projects\DotNetTraining\bin\Debug\DotNetTraining.exe
+D:\projects\DotNetTraining\bin\Debug\DotNetTraining.pdb
+D:\projects\DotNetTraining\obj\Debug\DotNetTraining.csproj.CoreCompileInputs.cache
+D:\projects\DotNetTraining\obj\Debug\DotNetTraining.exe
+D:\projects\DotNetTraining\obj\Debug\DotNetTraining.pdb
+D:\projects\DotNetTraining\bin\Debug\WebDriver.dll
+D:\projects\DotNetTraining\bin\Debug\WebDriver.xml
+D:\projects\DotNetTraining\obj\Debug\DotNetTraining.csproj.CopyComplete
