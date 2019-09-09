@@ -20,7 +20,7 @@ namespace DotNetTraining
 
             element.SendKeys("dress");
 
-            driver.Close();
+            //driver.Close();
         }
     }
 }
