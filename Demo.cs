@@ -11,24 +11,24 @@ namespace DotNetTraining
 {
     class Demo
     {
-        IWebDriver driver;
+        //IWebDriver driver;
 
-        [SetUp]
-        public void startBrowser()
-        {
-            driver = new ChromeDriver();
-        }
+        //[SetUp]
+        //public void startBrowser()
+        //{
+        //    driver = new ChromeDriver();
+        //}
 
-        [Test]
-        public void test()
-        {
-            driver.Url = "http://automationpractice.com/index.php";
-        }
+        //[Test]
+        //public void test()
+        //{
+        //    driver.Url = "http://automationpractice.com/index.php";
+        //}
 
-        [TearDown]
-        public void closeBrowser()
-        {
-            driver.Close();
-        }
+        //[TearDown]
+        //public void closeBrowser()
+        //{
+        //    driver.Close();
+        //}
     }
 }
